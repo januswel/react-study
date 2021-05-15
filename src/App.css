@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.second {
+  color: red;
+}
+
+td {
+  padding-bottom: 5px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
